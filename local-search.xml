@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>test page</title>
+    <link href="/2023/08/01/test-page/"/>
+    <url>/2023/08/01/test-page/</url>
+    
+    <content type="html"><![CDATA[<h1 id="HELLO-world"><a href="#HELLO-world" class="headerlink" title="HELLO world"></a>HELLO world</h1>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>lesson</title>
+    <link href="/2023/03/13/lesson/"/>
+    <url>/2023/03/13/lesson/</url>
+    
+    <content type="html"><![CDATA[<h1 id="lesson"><a href="#lesson" class="headerlink" title="lesson"></a>lesson</h1><h1 id="课程链接"><a href="#课程链接" class="headerlink" title="课程链接"></a>课程链接</h1><h2 id="离散优化"><a href="#离散优化" class="headerlink" title="离散优化"></a>离散优化</h2><p>网页 <a href="http://101.34.54.17:8300/courses/course_doa">http://101.34.54.17:8300/courses/course_doa</a><br>课件 <a href="ttps://box.nju.edu.cn/d/aa4d2341ff1f486880cc/">https://box.nju.edu.cn/d/aa4d2341ff1f486880cc/</a></p><h2 id="应用统计"><a href="#应用统计" class="headerlink" title="应用统计"></a>应用统计</h2><p>课件<a href="https://box.nju.edu.cn/d/33f65e98688348c78365/">https://box.nju.edu.cn/d/33f65e98688348c78365/</a></p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>learn</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>lesson</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>06 01 配置记录</title>
+    <link href="/2022/06/02/%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/"/>
+    <url>/2022/06/02/%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/</url>
+    
+    <content type="html"><![CDATA[<h1 id="06-01-配置blog-记录"><a href="#06-01-配置blog-记录" class="headerlink" title="06 01 配置blog 记录"></a>06 01 配置blog 记录</h1><h1 id="2022-06-01"><a href="#2022-06-01" class="headerlink" title="2022 06 01"></a>2022 06 01</h1><p>现在是2022年6月2日1:27,通过昨天白天的部分空闲时间利用腾讯云的服务器+注册的域名 + github + hexo 实现了我的个人博客的搭建，在此纪念一下。</p><p>昨天博客搭建的过程是主要参照知乎上 <a href="https://www.zhihu.com/people/mai-nv-hai-de-xiao-huo-chai-35-19">枫叶</a>大佬的帖子<a href="https://zhuanlan.zhihu.com/p/102592286">从零开始搭建个人博客（超详细）</a>。这个教程可以说是很详细了。再配置的过程中也存在部分问题，如下。</p><ul><li>在第三篇中，创建的github仓库名称 xxx.github.io 中xxx要和用户名相同。</li><li>Node.js的版本最好是12.0以上的，否则会发生错误。Ubuntu从apt安装的版本并不是最新的版本，直接从官网下载最新的即可。关于Ubuntu安装nodejs的方法可以参考<a href="https://developer.aliyun.com/article/760687">如何在 Ubuntu 20.04 上安装 Node.js 和 npm</a></li><li>注意有部分主题和插件之间有冲突，经常报这个错误<br><img src="/images/file_save/error.png" alt="错误提示"></li></ul><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>现在已经是第二天了，我的个人博客初步搭建好了，接下来会继续记录继续探索发现博客的可能性。</p><p><img src="/image/%E9%85%8D%E7%BD%AE%E8%AE%B0%E5%BD%95/1690860923166.png"></p><hr>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日志</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>my first blog</title>
+    <link href="/2022/06/01/my-first-blog/"/>
+    <url>/2022/06/01/my-first-blog/</url>
+    
+    <content type="html"><![CDATA[<h1 id="my-first-article"><a href="#my-first-article" class="headerlink" title="my first article"></a>my first article</h1><h2 id="markdown-基本语法"><a href="#markdown-基本语法" class="headerlink" title="markdown 基本语法"></a>markdown 基本语法</h2><p><a href="https://markdown.com.cn/">markdown 教程</a><br><a href="https://markdown.com.cn/basic-syntax/">markdown 官方教程链接</a></p><p>代码测试：</p><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs py"><span class="hljs-built_in">print</span>(<span class="hljs-string">"Hello"</span>)<br></code></pre></td></tr></tbody></table><p>图片测试：</p><p><img src="https://images3.alphacoders.com/589/thumbbig-589870.webp"></p><p>引用测试：</p><blockquote><p>这是一条引用</p></blockquote><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><p>无序列表测试：</p><ul><li>1</li><li>2</li></ul><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>test</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2022/06/01/hello-world/"/>
+    <url>/2022/06/01/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
