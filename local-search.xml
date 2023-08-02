@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>资源目录</title>
+    <link href="/2023/08/02/%E8%B5%84%E6%BA%90%E7%9B%AE%E5%BD%95/"/>
+    <url>/2023/08/02/%E8%B5%84%E6%BA%90%E7%9B%AE%E5%BD%95/</url>
+    
+    <content type="html"><![CDATA[<h1 id="机器学习"><a href="#机器学习" class="headerlink" title="机器学习"></a>机器学习</h1><h2 id="参考书"><a href="#参考书" class="headerlink" title="参考书"></a>参考书</h2><p>西瓜书 机器学习 周志华<br>南瓜书 公式讲解 Datawhale</p><ul><li><a href="https://github.com/datawhalechina/pumpkin-book">Datawhale github 地址</a> </li><li><a href="https://github.com/datawhalechina/pumpkin-book/releases">南瓜书下载</a></li><li><a href="../../../../downloads/pumpkin_book.pdf">南瓜书pdf</a></li></ul><p>课后习题解答</p><ul><li><a href="https://zhuanlan.zhihu.com/p/355235881">第一章 绪论</a></li><li><a href="">第二章 模型评估与选择</a></li><li><a href="https://blog.csdn.net/MaxQuYY/article/details/120342361">第三章 线性模型</a></li></ul><h2 id="网络课程"><a href="#网络课程" class="headerlink" title="网络课程"></a>网络课程</h2><p><a href="https://www.xuetangx.com/course/nju0802bt/16910981?channel=i.area.learn_title">西瓜书 机器学习学堂在线(2023秋)</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>learn</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Machine Learning</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>test page</title>
     <link href="/2023/08/01/test-page/"/>
     <url>/2023/08/01/test-page/</url>
